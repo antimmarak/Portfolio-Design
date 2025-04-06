@@ -7,7 +7,7 @@ export function HeroSection() {
           <div className="w-full lg:w-1/2 space-y-6">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight">
               Hi, I'm{' '}
-              <span className="text-blue-600 dark:text-blue-400">John Doe</span>
+              <span className="text-blue-600 dark:text-blue-400">Antim Marak</span>
             </h1>
             <h2 className="text-2xl sm:text-3xl text-gray-600 dark:text-gray-400 font-medium">
               Frontend Developer & UI Designer

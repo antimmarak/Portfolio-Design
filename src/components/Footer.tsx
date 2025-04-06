@@ -5,7 +5,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <a href="#" className="text-xl font-bold">
-              John Doe
+              Antim Marak
             </a>
             <p className="text-gray-400 text-sm mt-1">
               Frontend Developer & UI Designer
@@ -13,7 +13,7 @@ export function Footer() {
           </div>
           <div className="flex flex-col items-center md:items-end">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+              &copy; {new Date().getFullYear()} Antim Marak. All rights reserved.
             </p>
             <div className="mt-2 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
